@@ -1,1 +1,1 @@
-# aut-_git
+# auto_git
